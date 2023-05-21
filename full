@@ -1,0 +1,7 @@
+AndroidFullScreen.stage = stage;
+
+AndroidFullScreen.fullScreen();
+
+stage.setOrientation(StageOrientation.UPSIDE_DOWN);
+
+stage.setOrientation(StageOrientation.UPSIDE_DOWN);
